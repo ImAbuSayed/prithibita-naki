@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/prithibita-naki/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Prithibita Naki](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/prithibita-naki/) |
+| **Get License** | [Official Music Licensing for Prithibita Naki](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/prithibita-naki/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ea122295de7a3725837c55a9f36f489b3e06984f1e80c97fa86a65069c00ac09` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Prithibita Naki
+
+This log tracks the cryptographic history and versioning for the song **Prithibita Naki** (prithibita-naki).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T02:21:19.638895 | `v1` | `ea122295de7a3725837c55a9f36f489b3e06984f1e80c97fa86a65069c00ac09` | `1917e9b72323a3e9a6d3389177c2c7b416ddf755bcd53405da4e80a5d9cc0f4b` | `2026-05-29_prithibita-naki-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
