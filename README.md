@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/prithibita-naki/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Prithibita Naki](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/prithibita-naki/) |
+| **Get License** | [Secure Licensing Rights for Prithibita Naki](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/prithibita-naki/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> পৃথিবীটা নাকি আজ বদলে গেছে
+> তোমার ওই চোখের মায়ায় এসে,
+> অচেনা এক ঘোরে মন হারিয়েছে
+> আমাদের এই স্বপ্নের দেশে।
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
